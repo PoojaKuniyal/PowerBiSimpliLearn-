@@ -59,6 +59,19 @@ This project was completed as part of a Simplilearn free course and showcases sk
 
 ---
 
+### 🔍 Insights
+
+- The **Consumer segment** contributed the **highest sales and profit**, highlighting it as the most lucrative customer group compare to corporate and home office.
+- **Sales and profit have shown a consistent year-over-year increase**, with **Quarter 4 outperforming** all other quarters — possibly due to holiday season demand.
+- **California led all states in total sales**, followed by **New York**, suggesting a concentration of high-value customers in these regions.
+- The **Technology category** generated the **highest profit and sales**, while **Furniture** had the **lowest overall profitability**.
+- Within subcategories:
+  - **Copiers** (Technology) stood out with the **highest subcategory sales**.
+  - **Tables** (Furniture) exhibited **declining or negative profit**, making it a potential area for cost or pricing optimization.
+- The **West region** achieved the **highest regional sales**, totaling approximately **$150K**, indicating strong market performance in that geography.
+
+---
+
 ## 🧠 **Learning Outcomes**
 - Gained proficiency in Power BI's features like slicers, calculated columns, and advanced visualizations.
 - Developed strong analytical skills by interpreting trends and making data-driven recommendations.
